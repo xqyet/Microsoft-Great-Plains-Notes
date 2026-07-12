@@ -1,4 +1,4 @@
-# Microsoft Dynamics GP (Great Plains) – A/R Navigation Notes
+# Microsoft Dynamics GP (Great Plains) – Gio's A/R Directory Notes
 
 ## Navigation Basics
 - **Modules = Work Areas**
